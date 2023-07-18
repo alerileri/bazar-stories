@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: #FAF7FF;
+}
+
+
+.nav-bar{
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #ECE0FE;
+}
+
+.logo{
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    color: #2D2D2D;
+}
+
+
+
+
+/* Contacto */
+
+
+
+
+/* shopping_cart
+
+add, bill, buy, card, cart, cash, checkout, coin, commerce, credit, currency, dollars, money, online, pay, payment, shopping
+
+.shopping-cart{
+    position: absolute;
+    left: 88.55%;
+    right: 5.34%;
+    top: 6.1%;
+    bottom: 91.08%;
+}
+
+
+/* Vector 
+
+position: absolute;
+left: 8.32%;
+right: 8.32%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #2D2D2D;
+
+
+/* account_circle
+
+account, avatar, circle, face, human, people, person, profile, thumbnail, user
+
+.user-button{
+position: absolute;
+left: 81.17%;
+right: 12.72%;
+top: 6.1%;
+bottom: 91.08%;
+
+
+
+/* Vector 
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #2D2D2D;
+}*/
+
+
+/* dehaze
+
+adjust, dehaze, edit, editing, enhance, haze, image, lines, photo, photography, remove
+
+
+position: absolute;
+left: 4.58%;
+right: 89.31%;
+top: 6.46%;
+bottom: 90.73%;
+
+
+
+/* Vector 
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 25%;
+bottom: 25%;
+
+background: #2D2D2D;*/
+
+
+/* Rectangle 6 
+
+position: absolute;
+width: 345px;
+height: 35px;
+left: 22px;
+top: 129px;
+
+background: #FAFA62;*/
+
+
+/* OFERTAS */
+h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    color: #2D2D2D;
+}
+
+
+/* Rectángulos ofertas 
+
+position: absolute;
+width: 79px;
+height: 91px;
+left: 24px;
+top: 176px;
+background: #D9D9D9;*/
+

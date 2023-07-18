@@ -5,61 +5,84 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400&family=Montserrat:wght@500&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
     <title>Bazar Stories</title>
 </head>
 
-<main>
 
-    <body>
-        <header>
-            <nav class="nav-bar">
-                <li>
-                    <ul>
-                        <button id="burgerButton" class="burger-button"></button>
-                    </ul>
-                    <ul>
-                        <img src="">
-                    </ul>
-                </li>
 
-                <li>
-                    <ul>
-                        <a ref="">Blog</a>
-                    </ul>
-                    <ul>
-                        <a ref="">Galería</a>
-                    </ul>
-                    <ul>
-                        <a ref="">Contacto</a>
-                    </ul>
-                </li>
+<body>
+    <header>
+        <nav class="nav-bar">
+            <li>
+                <ul>
+                    <button id="burgerButton" class="burger-button"></button>
+                </ul>
+                <ul>
+                    <p class="logo">Bazar ✦ Stories</p>
+                </ul>
+            </li>
 
-                <li>
-                    <ul>
-                        <button id="userButton" class="user-button"></button>
-                    </ul>
-                    <ul>
-                        <button id="shoppingCartButton" class="user-button"></button>
-                    </ul>
-                </li>
-            </nav>
-        </header>
+            <li>
+                <ul>
+                    <a ref="" class="blog">Blog</a>
+                </ul>
+                <ul>
+                    <a ref="" class="galeria">Galería</a>
+                </ul>
+                <ul>
+                    <a ref="" class="contacto">Contacto</a>
+                </ul>
+            </li>
 
+            <li>
+                <ul>
+                    <button id="userButton" class="user-button">
+                        <span class="material-symbols-outlined">
+                            account_circle
+                        </span>
+                    </button>
+                </ul>
+                <ul>
+                    <button id="shoppingCartButton" class="shopping-cart">
+                        <span class="material-symbols-outlined">
+                            shopping_cart
+                        </span>
+                    </button>
+                </ul>
+            </li>
+        </nav>
+    </header>
+    <section id="buscador">
+        <input type="text">
+        <button type="submit">
+            <span class="material-symbols-outlined">
+                search
+            </span>
+        </button>
+    </section>
+
+    <main>
         <section id="ofertas">
-            <h1>Ofertas</h1>
+            <h1 class="ofertas--titulo">Ofertas</h1>
         </section>
 
         <section id="galeria">
-            <h1>Galería</h1>
+            <h1 class="galeria--titulo">Galería</h1>
         </section>
 
         <section id="productos">
-            <h1>Productos</h1>
+            <h1 class="productos--titulo">Productos</h1>
         </section>
+    </main>
+    <footer>Bazar Stories 2023 by @alerileri</footer>
+</body>
 
-        <footer>Bazar Stories 2023 by @alerileri</footer>
-    </body>
-</main>
 
 
 </html>
