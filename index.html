@@ -13,73 +13,82 @@
         rel="stylesheet">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
-    
+
 </head>
 
 
 
 <body>
     <header>
-        <nav class="nav-bar">
-            <li>
+        <div class="caja">
+            <nav class="nav-bar">
                 <ul>
-                    <button id="burgerButton" class="burger-button"></button>
-                </ul>
-                <ul>
-                    <p class="logo">Bazar ✦ Stories</p>
-                </ul>
-            </li>
-
-            <li>
-                <ul>
-                    <a ref="" class="blog">Blog</a>
-                </ul>
-                <ul>
-                    <a ref="" class="galeria">Galería</a>
-                </ul>
-                <ul>
-                    <a ref="" class="contacto">Contacto</a>
-                </ul>
-            </li>
-
-            <li>
-                <ul>
-                    <button id="userButton" class="user-button">
-                        <span class="material-symbols-outlined">
-                            account_circle
-                        </span>
-                    </button>
-                </ul>
-                <ul>
-                    <button id="shoppingCartButton" class="shopping-cart">
-                        <span class="material-symbols-outlined">
+                    <li>
+                        <button id="burgerButton" class="burger-button">
+                            <span class="material-symbols-outlined">
+                                menu
+                            </span>
+                        </button>
+                    </li>
+                    <li>
+                        <p class="logo">Bazar ✦ Stories</p>
+                    </li>
+                    <li>
+                        <a href="#" class="shop">
+                            <span class="material-symbols-outlined">
                             shopping_cart
+                            </span> 
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <span class="material-symbols-outlined">
+                                account_circle
+                                </span>
+                        </a>
+                    </li>
+                </ul>
+
+                <section id="buscador" class="buscador">
+                    <input type="text" class="input--search" placeholder="Buscar">
+                    <button type="submit">
+                        <span class="material-symbols-outlined">
+                            search
                         </span>
                     </button>
+                </section>
+
+                <ul class="enlaces">
+                    <li>
+                        <a ref="#" class="blog">Blog</a>
+                    </li>
+                    <li>
+                        <a ref="#" class="galeria">Galería</a>
+                    </li>
+                    <li>
+                        <a ref="#" class="contacto">
+                            Contacto
+                        </a>
+                    </li>
                 </ul>
-            </li>
-        </nav>
+
+            </nav>
+        </div>
+
     </header>
-    <section id="buscador">
-        <input type="text">
-        <button type="submit">
-            <span class="material-symbols-outlined">
-                search
-            </span>
-        </button>
-    </section>
+
 
     <main>
         <section id="ofertas">
-            <h1 class="ofertas--titulo">Ofertas</h1>
+            <h1 class="ofertas--titulo">ofertas</h2>
         </section>
 
         <section id="galeria">
-            <h1 class="galeria--titulo">Galería</h1>
+            <h1 class="galeria--titulo">galería</h1>
         </section>
 
         <section id="productos">
-            <h1 class="productos--titulo">Productos</h1>
+            <h1 class="productos--titulo">productos</h1>
         </section>
     </main>
     <footer>Bazar Stories 2023 by @alerileri</footer>

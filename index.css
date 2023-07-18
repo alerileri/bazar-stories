@@ -1,142 +1,111 @@
 * {
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Montserrat', sans-serif;
-    background: #FAF7FF;
+        font-family: Montserrat;
 }
 
-
-.nav-bar{
-    position: absolute;
+body{
+    background-color: #FAF6FF;
     width: 100%;
-    height: 80px;
-    left: 0px;
-    top: 0px;
-    background: #ECE0FE;
+    height: 100%;
+    font-family: Montserrat;
+}
+
+.caja{
+    width: 100%;
+    height: auto;
+    background-color: #ECE0FE;
+    display:inline-block;
+}
+.nav-bar{
+    width: 100%;
+    height: auto;
+    background-color: #ECE0FE;
+    font-family: 'Montserrat';
+    margin-left: 5%;
+    margin-right:5%;
+    padding-top: 2%;
+}
+
+li{
+    display: inline-block;
+}
+
+button{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+span{
+color:#2D2D2D;
+cursor: pointer;
 }
 
 .logo{
-
     font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 12px;
-    line-height: 15px;
+    font-weight: 400;
     letter-spacing: 0.05em;
     color: #2D2D2D;
+    text-align: center;
 }
 
+.buscador{
+    height: auto;
+    padding: 15px;
 
-
-
-/* Contacto */
-
-
-
-
-/* shopping_cart
-
-add, bill, buy, card, cart, cash, checkout, coin, commerce, credit, currency, dollars, money, online, pay, payment, shopping
-
-.shopping-cart{
-    position: absolute;
-    left: 88.55%;
-    right: 5.34%;
-    top: 6.1%;
-    bottom: 91.08%;
 }
 
+.input--search{
+    width: 90%;
+    height: auto;
+}
 
-/* Vector 
+main{
+    margin: 5%
+}
 
-position: absolute;
-left: 8.32%;
-right: 8.32%;
-top: 8.33%;
-bottom: 8.33%;
+nav a span{
+    padding-right:0;
+    padding-left:30%;
+}
 
-background: #2D2D2D;
+nav li p{
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
+.enlaces{
+    display:flex;
+    justify-content:space-around;
+    padding: 10px;
+    font-size: 14px;
+}
 
-/* account_circle
-
-account, avatar, circle, face, human, people, person, profile, thumbnail, user
-
-.user-button{
-position: absolute;
-left: 81.17%;
-right: 12.72%;
-top: 6.1%;
-bottom: 91.08%;
-
-
-
-/* Vector 
-
-position: absolute;
-left: 8.33%;
-right: 8.33%;
-top: 8.33%;
-bottom: 8.33%;
-
-background: #2D2D2D;
-}*/
-
-
-/* dehaze
-
-adjust, dehaze, edit, editing, enhance, haze, image, lines, photo, photography, remove
-
-
-position: absolute;
-left: 4.58%;
-right: 89.31%;
-top: 6.46%;
-bottom: 90.73%;
-
-
-
-/* Vector 
-
-position: absolute;
-left: 8.33%;
-right: 8.33%;
-top: 25%;
-bottom: 25%;
-
-background: #2D2D2D;*/
-
-
-/* Rectangle 6 
-
-position: absolute;
-width: 345px;
-height: 35px;
-left: 22px;
-top: 129px;
-
-background: #FAFA62;*/
-
-
-/* OFERTAS */
 h1{
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 12px;
-    line-height: 15px;
-    letter-spacing: 0.05em;
-    color: #2D2D2D;
+font-size: 20px;
+font-variant: small-caps;
+font-weight: medium;
+letter-spacing: 0.05em;
+padding: 10px;
+margin: 10px;
+text-align: center;
 }
 
+.ofertas--titulo{
+    background-color: #FAFA62;
+}
 
-/* Rectángulos ofertas 
+.galeria--titulo{
+    background-color: #ECE0FE;
+}
 
-position: absolute;
-width: 79px;
-height: 91px;
-left: 24px;
-top: 176px;
-background: #D9D9D9;*/
+.productos--titulo{
+    background-color: #ECE0FE;
+}
 
+footer{
+    text-align: center;
+    padding: 40px;
+    font-size: 12px;
+}
