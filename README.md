@@ -43,7 +43,7 @@ Se realizó a petición un borrador "muy sencillo" en blanco y negro, el cual co
 La herramienta utilizada para este boceto en formato digital fue la aplicación Procreate.
 El resultado es el siguiente:
 
-![Borrador en blanco y negro](/img/borrador_b&n.jpg)
+![Borrador en blanco y negro](src/img/borrador_byn.JPG)
 
 
 ## Prototipo
