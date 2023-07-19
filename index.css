@@ -15,7 +15,7 @@ body{
     width: 100%;
     height: auto;
     background-color: #ECE0FE;
-    display:inline-block;
+    
 }
 .nav-bar{
     width: 100%;
@@ -24,8 +24,15 @@ body{
     font-family: 'Montserrat';
     margin-left: 5%;
     margin-right:5%;
-    padding-top: 2%;
+    padding-top: 30px;
 }
+
+.upper-nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+
 
 li{
     display: inline-block;
@@ -40,14 +47,14 @@ button{
 span{
 color:#2D2D2D;
 cursor: pointer;
+justify-content:flex-end;
 }
 
 .logo{
     font-family: 'Montserrat';
-    font-weight: 400;
-    letter-spacing: 0.05em;
+    font-weight: 600;
+    font-size: 12px;
     color: #2D2D2D;
-    text-align: center;
 }
 
 .buscador{
@@ -65,27 +72,18 @@ main{
     margin: 5%
 }
 
-nav a span{
-    padding-right:0;
-    padding-left:30%;
-}
-
-nav li p{
-    padding-left: 50px;
-    padding-right: 50px;
-}
-
 .enlaces{
     display:flex;
     justify-content:space-around;
-    padding: 10px;
-    font-size: 14px;
+    padding: 12px;
+    font-weight: 600;
+    font-size: 12px;
 }
 
 h1{
-font-size: 20px;
+font-size: 16px;
 font-variant: small-caps;
-font-weight: medium;
+font-weight: 600;
 letter-spacing: 0.05em;
 padding: 10px;
 margin: 10px;
