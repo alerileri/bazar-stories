@@ -37,7 +37,14 @@ Esta prueba técnica se enfoca en la habilidad de trasladar un borrador o maquet
  
 Se debe elegir una pantalla del borrador que diseñaste previamente.
 
-# Borrador
+# Prototipo
+## Borrador
+Se realizó a petición un borrador "muy sencillo" en blanco y negro, el cual contiene el boceto general de lo que incluye la página web en un tamaño de pantalla móvil para poder seguir el formato de trabajo "mobile first".
+La herramienta utilizada para este boceto en formato digital fue la aplicación Procreate.
+El resultado es el siguiente:
+
+![Borrador en blanco y negro](/img/borrador_b&n.jpg)
+
 
 ## Prototipo
 
