@@ -1,10 +1,13 @@
 # bazar-stories
 
-# MAQUETACIÓN
-Esta prueba técnica se enfoca en la habilidad de plasmar una idea en un borrador y a su vez en un prototipo funcional para ser presentado al usuario solicitante. 
+
+# Maquetación
+Esta prueba técnica se enfoca en la habilidad de plasmar una idea en un borrador y a su vez en un prototipo funcional para ser presentado al usuario solicitante. Con base en la solicitud del usuario, hacer una propuesta de diseño (borrador, puede ser lápiz o con una herramienta) que incluya un logotipo genérico. El borrador debe ser simple y representativo de los elementos estructurales que serán usados según la interpretación que se hizo de los requerimientos del usuario.
+
+El código desarrollado se encuentra en los archivos de este repositorio.
  
-# SOLICITUD DEL USUARIO: 
-Quiero una página web que tenga cinco páginas donde pueda vender mis cosas, 
+# Solicitud del usuario: 
+"Quiero una página web que tenga cinco páginas donde pueda vender mis cosas, 
 vender productos usados que compro a otras personas y me gustaría vender en internet. 
 A veces los vendo también en mi cochera porque me gusta hablar con las personas y contarles de dónde viene lo que compraron, así como si fuera una historia de todo lo que ha pasado su producto y hacer amistades nuevas, me gusta mucho conocer gente nueva.
 
@@ -27,10 +30,7 @@ Mi página de internet debe ser como yo, fresca, interesante y llamativa no como
 No se usar mucho la computadora por mi edad ya se me dificulta aprender cosas nuevas, pero quiero poder ver mis pedidos, mis mensajes y contestarle a cada cliente, que sientas el amor con el que vendo.
 
 A veces no pueden pasar a recoger los clientes lo que compraron por lo que tengo que mandarlos eso me gustaría también en mi página web.
-Me gustaría que pudiera poner mi historia como empecé y así que la gente vea quien soy.
- 
-NOTAS: En base a la información conocida hacer una propuesta de diseño (borrador, puede ser lápiz o con una herramienta) que incluya un logotipo genérico. 
-El borrador debe ser simple y representativo de los elementos estructurales que serán usados según la interpretación que se hizo de los requerimientos del usuario.
+Me gustaría que pudiera poner mi historia como empecé y así que la gente vea quien soy."
  
 ## HTML, CSS3, JAVASCRIPT
 Esta prueba técnica se enfoca en la habilidad de trasladar un borrador o maqueta a una versión (prototipo) en HTML, que contenga los elementos estructurales de la maqueta, aun cuando el contenido final no ha sido definido.
@@ -48,13 +48,14 @@ El resultado es el siguiente:
 
 ## Prototipo
 
-El prototipo se desarrolló con la herramienta Figma. El resultado puede encontrarse en el siguiente enlace:
+El prototipo se desarrolló con la herramienta Figma. El resultado puede encontrarse en los siguientes enlaces:
 
+**Versión móvil**
 https://www.figma.com/proto/Ok7oGqfbbNWFUFug8dJhM8/Bazar-%E2%9C%A6-Stories?page-id=25%3A323&type=design&node-id=25-394&viewport=-632%2C54%2C0.9&t=D8k2tEG6n0GRCTAa-1&scaling=scale-down&mode=design
 
- 
-## NOTAS: Se evaluará el correcto uso del responsive design. 
- 
-#Entregables
-Enviar el borrador de acuerdo con la herramienta usada.
-Enviar el prototipo en HTML.
+**Versión tableta**
+https://www.figma.com/proto/Ok7oGqfbbNWFUFug8dJhM8/Bazar-%E2%9C%A6-Stories?page-id=17%3A57&type=design&node-id=17-58&viewport=487%2C411%2C0.64&t=l6VONctlqWZXNJ8Y-1&scaling=min-zoom&mode=design
+
+**Versión escritorio**
+https://www.figma.com/proto/Ok7oGqfbbNWFUFug8dJhM8/Bazar-%E2%9C%A6-Stories?page-id=17%3A92&type=design&node-id=17-93&viewport=479%2C371%2C0.36&t=DmbeOQBgjdN4sB6F-1&scaling=min-zoom&mode=design
+
