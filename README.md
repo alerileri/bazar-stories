@@ -52,11 +52,17 @@ El resultado es el siguiente:
 El prototipo se desarrolló con la herramienta Figma. El resultado puede encontrarse en los siguientes enlaces:
 
 **Versión móvil**
+
+![Prototipo versión móvil](src/img/movil-prototipo.png)
 https://www.figma.com/proto/Ok7oGqfbbNWFUFug8dJhM8/Bazar-%E2%9C%A6-Stories?page-id=25%3A323&type=design&node-id=25-394&viewport=-632%2C54%2C0.9&t=D8k2tEG6n0GRCTAa-1&scaling=scale-down&mode=design
 
 **Versión tableta**
+
+![Prototipo versión tablet](src/img/ipad-prototipo.png)
 https://www.figma.com/proto/Ok7oGqfbbNWFUFug8dJhM8/Bazar-%E2%9C%A6-Stories?page-id=17%3A57&type=design&node-id=17-58&viewport=487%2C411%2C0.64&t=l6VONctlqWZXNJ8Y-1&scaling=min-zoom&mode=design
 
 **Versión escritorio**
+
+![Prototipo versión escritorio](src/img/escritorio-prototipo.png)
 https://www.figma.com/proto/Ok7oGqfbbNWFUFug8dJhM8/Bazar-%E2%9C%A6-Stories?page-id=17%3A92&type=design&node-id=17-93&viewport=479%2C371%2C0.36&t=DmbeOQBgjdN4sB6F-1&scaling=min-zoom&mode=design
 
