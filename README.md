@@ -3,7 +3,6 @@
 
 # Maquetación
 Esta prueba técnica se enfoca en la habilidad de plasmar una idea en un borrador y a su vez en un prototipo funcional para ser presentado al usuario solicitante. Con base en la solicitud del usuario, hacer una propuesta de diseño (borrador, puede ser lápiz o con una herramienta) que incluya un logotipo genérico. El borrador debe ser simple y representativo de los elementos estructurales que serán usados según la interpretación que se hizo de los requerimientos del usuario.
-
 El código desarrollado se encuentra en los archivos de este repositorio.
  
 # Solicitud del usuario: 
