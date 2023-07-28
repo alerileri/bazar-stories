@@ -1,11 +1,12 @@
 # bazar-stories
 
+
 # Maquetación
-Esta prueba técnica se enfoca en la habilidad de plasmar una idea en un borrador y a su vez en un prototipo funcional para ser presentado al usuario solicitante. 
+Esta prueba técnica se enfoca en la habilidad de plasmar una idea en un borrador y a su vez en un prototipo funcional para ser presentado al usuario solicitante. Con base en la solicitud del usuario, hacer una propuesta de diseño (borrador, puede ser lápiz o con una herramienta) que incluya un logotipo genérico. El borrador debe ser simple y representativo de los elementos estructurales que serán usados según la interpretación que se hizo de los requerimientos del usuario.
 El código desarrollado se encuentra en los archivos de este repositorio.
  
-# SOLICITUD DEL USUARIO: 
-Quiero una página web que tenga cinco páginas donde pueda vender mis cosas, 
+# Solicitud del usuario: 
+"Quiero una página web que tenga cinco páginas donde pueda vender mis cosas, 
 vender productos usados que compro a otras personas y me gustaría vender en internet. 
 A veces los vendo también en mi cochera porque me gusta hablar con las personas y contarles de dónde viene lo que compraron, así como si fuera una historia de todo lo que ha pasado su producto y hacer amistades nuevas, me gusta mucho conocer gente nueva.
 
@@ -28,10 +29,7 @@ Mi página de internet debe ser como yo, fresca, interesante y llamativa no como
 No se usar mucho la computadora por mi edad ya se me dificulta aprender cosas nuevas, pero quiero poder ver mis pedidos, mis mensajes y contestarle a cada cliente, que sientas el amor con el que vendo.
 
 A veces no pueden pasar a recoger los clientes lo que compraron por lo que tengo que mandarlos eso me gustaría también en mi página web.
-Me gustaría que pudiera poner mi historia como empecé y así que la gente vea quien soy.
- 
-NOTAS: En base a la información conocida hacer una propuesta de diseño (borrador, puede ser lápiz o con una herramienta) que incluya un logotipo genérico. 
-El borrador debe ser simple y representativo de los elementos estructurales que serán usados según la interpretación que se hizo de los requerimientos del usuario.
+Me gustaría que pudiera poner mi historia como empecé y así que la gente vea quien soy."
  
 ## HTML, CSS3, JAVASCRIPT
 Esta prueba técnica se enfoca en la habilidad de trasladar un borrador o maqueta a una versión (prototipo) en HTML, que contenga los elementos estructurales de la maqueta, aun cuando el contenido final no ha sido definido.
